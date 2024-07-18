@@ -1,0 +1,119 @@
+@media screen and (max-width:320px) {
+  .container-2{
+    margin-top: 40%;
+  }
+  .content{
+    margin-top: 130%;
+    
+  }
+  .profile{
+    margin-top: 10%;
+    margin-right: 40px;
+    
+  }
+  .profile img{
+    width: 70%;
+  }
+  .container-3{
+    margin-top: 153%;
+    margin-left: -20%
+  }
+  .container-3 p{
+    width: 90%;
+    font-size: 100%;
+    text-align: justify;
+  }
+  .about-img img{
+    width: 55%;
+    margin-left: -100px;
+    margin-top: 30%;
+  }
+  .project-tittle{
+    margin-top: 250px;
+  }
+  .form{
+    margin-top: 10%;
+  }
+  
+ 
+}
+@media screen and (max-width:375px) {
+  .content{
+    margin-top: 120%;
+  }
+  .profile{
+    margin-right: 40px;
+    margin-top: 10%;
+  }
+  .profile img{
+    width: 70%;
+  }
+  .container-3{
+    margin-top: 153%;
+    margin-left: -20%
+  }
+  .container-3 p{
+    width: 90%;
+    font-size: 100%;
+    text-align: justify;
+  }
+  .about-img img{
+    width: 55%;
+    margin-left: 70px;
+    margin-top: 30%;
+  }
+  .project-tittle{
+    margin-top: 210px;
+  }
+  .project-images{
+    flex-direction: column;
+  
+  }
+  .project-images img{
+    width: 80%;
+  }
+  
+  
+}
+@media screen and (max-width:425px){
+  .content{
+
+      margin-top: 120%;
+    }
+    .profile{
+      margin-right: 40px;
+      margin-top: 10%;
+    }
+    .profile img{
+      width: 70%;
+    }
+    .container-3{
+      margin-top: 153%;
+      margin-left: -20%
+    }
+    .container-3 p{
+      width: 90%;
+      font-size: 100%;
+      text-align: justify;
+    }
+    .about-img img{
+      width: 55%;
+      margin-left:100px;
+      margin-top: 30%;
+      
+    }
+    .project-tittle{
+      margin-top: 100%;
+    }
+    .project-images{
+      flex-direction: column;
+    
+    }
+    .project-images img{
+      width: 80%;
+    }
+    
+  }
+
+  
+  
